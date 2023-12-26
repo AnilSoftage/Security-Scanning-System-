@@ -1,0 +1,1 @@
+GitHub offers powerful built-in security tools to safeguard your code. Code Scanning, powered by CodeQl, identifies vulnerabilities, while Dependbot keeps dependencies current. Security alerts notify about known vulnerabilities. Leverage these features to fortify your repository, ensuring robust protection and adherence to best practices in code security.
